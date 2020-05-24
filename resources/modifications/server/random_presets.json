@@ -1,0 +1,22 @@
+[
+  {
+    "cargo": "foodHermit",
+    "chance": "0.01",
+    "items": []
+  },
+  {
+    "cargo": "foodVillage",
+    "chance": "0.02",
+    "items": []
+  },
+  {
+    "cargo": "foodCity",
+    "chance": "0.03",
+    "items": []
+  },
+  {
+    "cargo": "foodArmy",
+    "chance": "0.01",
+    "items": []
+  }
+]

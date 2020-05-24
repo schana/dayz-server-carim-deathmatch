@@ -1,0 +1,44 @@
+[
+  {
+    "directory": "@CF",
+    "disable_updates": false,
+    "file_id": 1559212036,
+    "server_side": false
+  },
+  {
+    "directory": "@VPPNotifications",
+    "disable_updates": false,
+    "file_id": 1680673106,
+    "server_side": false
+  },
+  {
+    "directory": "@VPPAdminTools",
+    "disable_updates": false,
+    "file_id": 1708571078,
+    "server_side": false
+  },
+  {
+    "directory": "@DayZ-Expansion-Chat",
+    "disable_updates": false,
+    "file_id": 1927567004,
+    "server_side": false
+  },
+  {
+    "directory": "@SchanaModExpansionChatRCon",
+    "disable_updates": false,
+    "file_id": 2061823484,
+    "server_side": false
+  },
+  {
+    "directory": "@SchanaModAutorun",
+    "disable_updates": false,
+    "file_id": 2031792120,
+    "server_side": false
+  },
+  {
+    "directory": "@SchanaModCompass",
+    "disable_updates": false,
+    "file_id": 2067834152,
+    "server_side": false
+  }
+]

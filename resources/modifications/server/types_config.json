@@ -1,0 +1,106 @@
+[
+  {
+    "description": "remove items that shouldn't spawn",
+    "action": "remove",
+    "matching": [
+      {
+        "category": {
+          "name": "(?!weapons)"
+        }
+      },
+      {
+        "name": ".*(Ammo|Hndgrd|Bttstck|Bayonet|Optic|Suppressor|Compensator|Goggles|Light|Water).*"
+      },
+      {
+        "nominal": "^0$"
+      }
+    ]
+  },
+  {
+    "description": "Add all usages",
+    "action": "modify",
+    "matching": [
+      {
+        "name": ".*"
+      }
+    ],
+    "modification": {
+      "usage": [
+        {
+          "name": "Industrial"
+        },
+        {
+          "name": "Village"
+        },
+        {
+          "name": "Town"
+        },
+        {
+          "name": "Police"
+        },
+        {
+          "name": "Prison"
+        },
+        {
+          "name": "Hunting"
+        },
+        {
+          "name": "Coast"
+        },
+        {
+          "name": "Farm"
+        },
+        {
+          "name": "Medic"
+        },
+        {
+          "name": "Military"
+        },
+        {
+          "name": "Firefighter"
+        }
+      ]
+    }
+  },
+  {
+    "description": "Spawn full mags",
+    "action": "modify",
+    "matching": [
+      {
+        "name": "Mag.*"
+      }
+    ],
+    "modification": {
+      "quantmin": "100",
+      "quantmax": "100"
+    }
+  },
+  {
+    "description": "Remove Tiers",
+    "action": "modify",
+    "matching": [
+      {
+        "name": ".*",
+        "nominal": "[^0]+"
+      }
+    ],
+    "modification": {
+      "value": []
+    }
+  },
+  {
+    "description": "Set spawn rates",
+    "action": "modify",
+    "matching": [
+      {
+        "name": ".*"
+      }
+    ],
+    "modification": {
+      "nominal": 2,
+      "min": 1,
+      "lifetime": 600,
+      "restock": 300
+    }
+  }
+]
