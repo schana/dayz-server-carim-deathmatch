@@ -18,6 +18,12 @@
     "server_side": false
   },
   {
+    "directory": "@SchanaModAutorun",
+    "disable_updates": false,
+    "file_id": 2031792120,
+    "server_side": false
+  },
+  {
     "directory": "@DayZ-Expansion-Chat",
     "disable_updates": false,
     "file_id": 1927567004,
@@ -30,15 +36,33 @@
     "server_side": false
   },
   {
-    "directory": "@SchanaModAutorun",
-    "disable_updates": false,
-    "file_id": 2031792120,
-    "server_side": false
-  },
-  {
     "directory": "@SchanaModCompass",
     "disable_updates": false,
     "file_id": 2067834152,
     "server_side": false
+  },
+  {
+    "directory": "@Unlimited Stamina",
+    "disable_updates": false,
+    "file_id": 1560819773,
+    "server_side": false
+  },
+  {
+    "directory": "@CPBWeapons",
+    "disable_updates": false,
+    "file_id": 1705066179,
+    "server_side": false
+  },
+  {
+    "directory": "@[Remastered] Arma Weapon Pack",
+    "disable_updates": false,
+    "file_id": 1793351435,
+    "server_side": false
+  },
+  {
+    "directory": "@CFDZPlugin",
+    "disable_updates": false,
+    "file_id": 1874598419,
+    "server_side": true
   }
 ]

@@ -67,7 +67,7 @@
     "action": "modify",
     "matching": [
       {
-        "name": "Mag.*"
+        "name": "(Mag.*|.*_Magazine$|mag$|MAG$)"
       }
     ],
     "modification": {

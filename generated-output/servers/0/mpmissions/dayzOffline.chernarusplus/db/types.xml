@@ -1,0 +1,3141 @@
+<?xml version="1.0" ?><types>  
+  <type name="A2AA12">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2AA12_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2AK74S">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2AS50">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2AS50_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2bizon">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2G36_C">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2LRRAWM">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2LRRAWM_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M107">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M107_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M14_DMR">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M14_DMRMAG">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M16A4">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M240">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M249">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M249_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M24_Desert">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M24_Green">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M40A3">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M40A3_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M9">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2M9_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2MK16">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2mk17">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2mk17_mag">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2mk17_s">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2MK48">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2MK48_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2PKM">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2PKM_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2WM110_black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2WM110_desert">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="A2WM110_mag">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="AK101">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="AK74">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="AKM">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="AKS74U">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Asgrip1">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Asval">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Asval_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Asval_Magazine_Dual">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Asval_Magazine_Extended">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="ASVALRail">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="B95">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Barret">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Barret_Green">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Barret_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Barret_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="BigDeag">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="BigDeag_Gold">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="BigDeag_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Bipod_Black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="bizon_magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Colt1911">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="CZ527">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="CZ61">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="CZ75">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="DMRScope">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Engraved1911">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="FAL">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="FNX45">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Glock19">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="HK416">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="HoloSight">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Izh18">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Izh43Shotgun">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="KDMR_Camo">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="KDMR_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="KDMR_Worn">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="LrrScope">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M14_EFT">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M14_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M14_Magazine_dual">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M14_Magazine_Extended">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M14Rail">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M200">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="m200_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="m240_magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M447">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="M4A1">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_1911_7Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_AK101_30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_AK74_30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_AKM_30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_AKM_Drum75Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_AKM_Palm30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_CMAG_10Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_CMAG_20Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_CMAG_30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_CMAG_40Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_CZ527_5rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_CZ61_20Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_CZ75_15Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_FAL_20Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_FNX45_15Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_Glock_15Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_IJ70_8Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_MKII_10Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_MP5_30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_Saiga_5Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_Saiga_8Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_Saiga_Drum20Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_STANAG_30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_STANAGCoupled_30Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_SVD_10Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>1000</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_UMP_25Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mag_VSS_10Rnd">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="MakarovIJ70">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="MCRCARB_Black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="MCRCARB_Tan">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="MCRCQC_Black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="MCRSAW_Black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="MKII">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <tag name="shelves"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mosin9130">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Mp133Shotgun">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="MP5K">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Polymer_30rnd_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Polymer_40rnd_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Polymer_60rnd_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Repeater">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="RPK">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="RPK_magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Saiga">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="SKS">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="spectreds">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="SR25_Black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="SR25_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Steel_100rnd_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Steel_10rnd_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Steel_20rnd_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Steel_30rnd_Magazine">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>100</quantmin>    
+    <quantmax>100</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="SVD">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="T1">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Thompson">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Thompson_DrumMag">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Thompson_StickMag">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="TX15_Black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="UMP45">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="VerticalGrip_Black">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="VSS">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+  <type name="Winchester70">    
+    <nominal>2</nominal>    
+    <lifetime>600</lifetime>    
+    <restock>300</restock>    
+    <min>1</min>    
+    <quantmin>-1</quantmin>    
+    <quantmax>-1</quantmax>    
+    <cost>100</cost>    
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    <category name="weapons"/>    
+    <usage name="Industrial"/>    
+    <usage name="Village"/>    
+    <usage name="Town"/>    
+    <usage name="Police"/>    
+    <usage name="Prison"/>    
+    <usage name="Hunting"/>    
+    <usage name="Coast"/>    
+    <usage name="Farm"/>    
+    <usage name="Medic"/>    
+    <usage name="Military"/>    
+    <usage name="Firefighter"/>    
+  </type>  
+</types>
