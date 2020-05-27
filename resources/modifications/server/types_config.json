@@ -67,7 +67,7 @@
     "action": "modify",
     "matching": [
       {
-        "name": "(Mag.*|.*_Magazine$|mag$|MAG$)"
+        "name": "(Mag.*|.*_[Mm]agazine.*|.*[Mm]ag$|.*MAG$)"
       }
     ],
     "modification": {
@@ -97,8 +97,8 @@
       }
     ],
     "modification": {
-      "nominal": 2,
-      "min": 1,
+      "nominal": 4,
+      "min": 2,
       "lifetime": 600,
       "restock": 300
     }
