@@ -1,0 +1,127 @@
+{
+    "Controls": {
+        "Interval": 10,
+        "Mode": 3
+    },
+    "Map": {
+        "Offset": 1000
+    },
+    "Aircraft": {
+        "AirSpeedKIAS": 90
+    },
+    "Messages": {
+        "Mode": 1,
+        "Duration": 30,
+        "Proximity": 2000
+    },
+    "Container": {
+        "FallRate": 1,
+        "Lifespan": 11
+    },
+    "DropZoneDefaults": {
+        "DropType": "RANDOM",
+        "Zombies": 10,
+        "Radius": 50,
+        "DropAccuracy": 200
+    },
+    "DropZones": [
+        {
+            "Title": "Player Called",
+            "Location": "RANDOM",
+            "X": 0,
+            "Z": 0
+        },
+        {
+            "Title": "NWAF Construction",
+            "Location": "Military",
+            "X": 5300,
+            "Z": 9838
+        }
+    ],
+    "DropTypeDefaults": {
+        "Container": "AirdropContainer",
+        "Quantity": 20,
+        "AddFlare": 0,
+        "SpawnMin": 1,
+        "SpawnMax": 3,
+        "SpawnOffset": 0.001
+    },
+    "DropTypes": [
+        {
+            "Title": "Military",
+            "Items": [
+                "A2AA12",
+                "A2AA12_Magazine",
+                "A2AS50",
+                "A2AS50_Magazine",
+                "A2LRRAWM",
+                "A2LRRAWM_Magazine",
+                "A2M107",
+                "A2M107_Magazine",
+                "A2M240",
+                "A2M249",
+                "A2M249_Magazine",
+                "A2M24_Desert",
+                "A2M24_Green",
+                "A2M40A3",
+                "A2M40A3_Magazine",
+                "A2MK16",
+                "A2MK48",
+                "A2MK48_Magazine",
+                "A2PKM",
+                "A2PKM_Magazine",
+                "A2WM110_black",
+                "A2WM110_desert",
+                "A2WM110_mag",
+                "A2bizon",
+                "A2mk17",
+                "A2mk17_mag",
+                "A2mk17_s",
+                "AKM",
+                "Asval",
+                "Asval_Magazine_Dual",
+                "Asval_Magazine_Extended",
+                "Barret",
+                "Barret_Green",
+                "Barret_Magazine",
+                "BigDeag",
+                "CZ527",
+                "CZ61",
+                "CZ75",
+                "FAL",
+                "HK416",
+                "KDMR_Camo",
+                "KDMR_Magazine",
+                "KDMR_Worn",
+                "M14_EFT",
+                "M14_Magazine_Extended",
+                "M14_Magazine_dual",
+                "M200",
+                "M447",
+                "Mag_AKM_Drum75Rnd",
+                "Mag_CMAG_40Rnd",
+                "Mag_FAL_20Rnd",
+                "Mag_STANAGCoupled_30Rnd",
+                "Mag_Saiga_Drum20Rnd",
+                "Polymer_60rnd_Magazine",
+                "RPK",
+                "RPK_magazine",
+                "SKS",
+                "SR25_Black",
+                "SR25_Magazine",
+                "SVD",
+                "Saiga",
+                "Steel_100rnd_Magazine",
+                "Steel_30rnd_Magazine",
+                "T1",
+                "TX15_Black",
+                "Thompson",
+                "Thompson_DrumMag",
+                "VSS",
+                "bizon_magazine",
+                "m200_Magazine",
+                "m240_magazine"
+            ]
+        }
+    ]
+}
