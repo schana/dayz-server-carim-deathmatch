@@ -9,7 +9,7 @@
         }
       },
       {
-        "name": ".*(Ammo|Hndgrd|Bttstck|Bayonet|Optic|Suppressor|Compensator|Goggles|Light|Water).*"
+        "name": ".*([Gg]rip|Ammo|Hndgrd|Bttstck|Bayonet|Optic|Suppressor|Compensator|Goggles|Light|Water).*"
       },
       {
         "nominal": "^0$"
@@ -25,41 +25,7 @@
       }
     ],
     "modification": {
-      "usage": [
-        {
-          "name": "Industrial"
-        },
-        {
-          "name": "Village"
-        },
-        {
-          "name": "Town"
-        },
-        {
-          "name": "Police"
-        },
-        {
-          "name": "Prison"
-        },
-        {
-          "name": "Hunting"
-        },
-        {
-          "name": "Coast"
-        },
-        {
-          "name": "Farm"
-        },
-        {
-          "name": "Medic"
-        },
-        {
-          "name": "Military"
-        },
-        {
-          "name": "Firefighter"
-        }
-      ]
+      "usage": []
     }
   },
   {
@@ -98,8 +64,8 @@
     ],
     "modification": {
       "nominal": 4,
-      "min": 2,
-      "lifetime": 1200,
+      "min": 3,
+      "lifetime": 600,
       "restock": 0
     }
   }
