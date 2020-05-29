@@ -99,8 +99,8 @@
     "modification": {
       "nominal": 4,
       "min": 2,
-      "lifetime": 600,
-      "restock": 300
+      "lifetime": 1200,
+      "restock": 0
     }
   }
 ]

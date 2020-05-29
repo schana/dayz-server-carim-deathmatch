@@ -1,5 +1,5 @@
 <?xml version="1.0" ?><spawnabletypes>  
-  <damage max="0.7" min="0.3"/>  
+  <damage max="0.0" min="0.0"/>  
   <type name="Barrel_Blue">    
     <hoarder/>    
   </type>  

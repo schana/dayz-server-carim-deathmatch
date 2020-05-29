@@ -537,7 +537,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>fixed</position>    
     <limit>custom</limit>    
-    <active>0</active>    
+    <active>1</active>    
     <children/>    
   </event>  
   <event name="StaticChristmasTree">    
