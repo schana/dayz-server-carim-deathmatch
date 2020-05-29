@@ -2,9 +2,11 @@
   "TimeLogin": 5,
   "TimeLogout": 3,
   "AnimalMaxCount": 0,
+  "CleanupAvoidance": 1,
   "CleanupLifetimeDeadInfected": 180,
-  "CleanupLifetimeRuined": 60,
-  "CleanupLifetimeDeadPlayer": 300,
+  "CleanupLifetimeRuined": 30,
+  "CleanupLifetimeDeadPlayer": 180,
   "ZombieMaxCount": 0,
-  "ZoneSpawnDist": 500
+  "RespawnAttempt": 4,
+  "SpawnInitial": 300
 }
