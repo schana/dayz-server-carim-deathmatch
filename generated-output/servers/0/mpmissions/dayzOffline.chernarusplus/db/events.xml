@@ -520,7 +520,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>fixed</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="50" min="30" type="PileOfWoodenPlanks"/>      
     </children>    
@@ -537,7 +537,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>fixed</position>    
     <limit>custom</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children/>    
   </event>  
   <event name="StaticChristmasTree">    
@@ -620,7 +620,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="Apple"/>      
     </children>    
@@ -637,7 +637,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="CaninaBerry"/>      
     </children>    
@@ -654,7 +654,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="BoletusMushroom"/>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="MacrolepiotaMushroom"/>      
@@ -672,7 +672,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom"/>      
     </children>    
@@ -689,7 +689,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="AgaricusMushroom"/>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="PleurotusMushroom"/>      
@@ -707,7 +707,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="Pear"/>      
     </children>    
@@ -724,7 +724,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="Plum"/>      
     </children>    
@@ -741,7 +741,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="SambucusBerry"/>      
     </children>    
@@ -758,7 +758,7 @@
     <flags deletable="0" init_random="0" remove_damaged="0"/>    
     <position>player</position>    
     <limit>mixed</limit>    
-    <active>1</active>    
+    <active>0</active>    
     <children>      
       <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone"/>      
     </children>    

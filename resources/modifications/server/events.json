@@ -1,26 +1,6 @@
 [
   {
-    "name": "Infected.*",
-    "ratio": 0
-  },
-  {
-    "name": "StaticPoliceCar",
-    "ratio": 0
-  },
-  {
-    "name": "Animal.*",
-    "ratio": 0
-  },
-  {
-    "name": "StaticHeliCrash",
-    "ratio": 0
-  },
-  {
-    "name": "Vehicle.*",
-    "ratio": 0
-  },
-  {
-    "name": "Ambient.*",
+    "name": ".*",
     "ratio": 0
   }
 ]
