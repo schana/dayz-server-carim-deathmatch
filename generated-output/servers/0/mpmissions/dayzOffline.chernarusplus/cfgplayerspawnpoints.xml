@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+    <!--
+        Spawn points settings for newly created player characters
+    -->
+    <fresh>
+        <!-- runtime parameters used when player is spawning -->
+        <spawn_params>
+            <!-- used to rate point against infected -->
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <!-- used to rate point against other players -->
+            <min_dist_player>100.0</min_dist_player>
+            <max_dist_player>200.0</max_dist_player>
+            <!-- used to rate point against buildings -->
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>8</grid_density>
+            <!-- total width of grid in metres -->
+            <grid_width>40.0</grid_width>
+            <!-- total height of grid in metres -->
+            <grid_height>40.0</grid_height>
+            <!--  minimum distance from buildings for valid spawn point -->
+            <min_dist_static>0.5</min_dist_static>
+            <!--  maximum distance from buildings used to rate valid spawn point -->
+            <max_dist_static>2.0</max_dist_static>
+            <!-- terrain slope limits for valid spawn point -->
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+
+        <!-- centers for grids of spawn points -->
+        <generator_posbubbles>
+<!-- Zelenogorsk x 2625 z 5265 r 260
+<pos x="2400" z="5000" />
+<pos x="2400" z="5100" />
+<pos x="2400" z="5200" />
+<pos x="2400" z="5300" />
+<pos x="2400" z="5400" />
+<pos x="2400" z="5500" />
+<pos x="2500" z="5000" />
+<pos x="2500" z="5100" />
+<pos x="2500" z="5200" />
+<pos x="2500" z="5300" />
+<pos x="2500" z="5400" />
+<pos x="2500" z="5500" />
+<pos x="2600" z="5000" />
+<pos x="2600" z="5100" />
+<pos x="2600" z="5200" />
+<pos x="2600" z="5300" />
+<pos x="2600" z="5400" />
+<pos x="2600" z="5500" />
+<pos x="2700" z="5000" />
+<pos x="2700" z="5100" />
+<pos x="2700" z="5200" />
+<pos x="2700" z="5300" />
+<pos x="2700" z="5400" />
+<pos x="2700" z="5500" />
+<pos x="2800" z="5000" />
+<pos x="2800" z="5100" />
+<pos x="2800" z="5200" />
+<pos x="2800" z="5300" />
+<pos x="2800" z="5400" />
+<pos x="2800" z="5500" />
+-->
+<!-- NWAF Construction x 5300 z 9838 r 200 -->
+<pos x="5100" z="9650" />
+<pos x="5100" z="9700" />
+<pos x="5100" z="9750" />
+<pos x="5100" z="9800" />
+<pos x="5100" z="9850" />
+<pos x="5100" z="9900" />
+<pos x="5100" z="9950" />
+<pos x="5100" z="10000" />
+<pos x="5100" z="10050" />
+<pos x="5150" z="9650" />
+<pos x="5150" z="9700" />
+<pos x="5150" z="9750" />
+<pos x="5150" z="9800" />
+<pos x="5150" z="9850" />
+<pos x="5150" z="9900" />
+<pos x="5150" z="9950" />
+<pos x="5150" z="10000" />
+<pos x="5150" z="10050" />
+<pos x="5200" z="9650" />
+<pos x="5200" z="9700" />
+<pos x="5200" z="9750" />
+<pos x="5200" z="9800" />
+<pos x="5200" z="9850" />
+<pos x="5200" z="9900" />
+<pos x="5200" z="9950" />
+<pos x="5200" z="10000" />
+<pos x="5200" z="10050" />
+<pos x="5250" z="9650" />
+<pos x="5250" z="9700" />
+<pos x="5250" z="9750" />
+<pos x="5250" z="9800" />
+<pos x="5250" z="9850" />
+<pos x="5250" z="9900" />
+<pos x="5250" z="9950" />
+<pos x="5250" z="10000" />
+<pos x="5250" z="10050" />
+<pos x="5300" z="9650" />
+<pos x="5300" z="9700" />
+<pos x="5300" z="9750" />
+<pos x="5300" z="9800" />
+<pos x="5300" z="9850" />
+<pos x="5300" z="9900" />
+<pos x="5300" z="9950" />
+<pos x="5300" z="10000" />
+<pos x="5300" z="10050" />
+<pos x="5350" z="9650" />
+<pos x="5350" z="9700" />
+<pos x="5350" z="9750" />
+<pos x="5350" z="9800" />
+<pos x="5350" z="9850" />
+<pos x="5350" z="9900" />
+<pos x="5350" z="9950" />
+<pos x="5350" z="10000" />
+<pos x="5350" z="10050" />
+<pos x="5400" z="9650" />
+<pos x="5400" z="9700" />
+<pos x="5400" z="9750" />
+<pos x="5400" z="9800" />
+<pos x="5400" z="9850" />
+<pos x="5400" z="9900" />
+<pos x="5400" z="9950" />
+<pos x="5400" z="10000" />
+<pos x="5400" z="10050" />
+<pos x="5450" z="9650" />
+<pos x="5450" z="9700" />
+<pos x="5450" z="9750" />
+<pos x="5450" z="9800" />
+<pos x="5450" z="9850" />
+<pos x="5450" z="9900" />
+<pos x="5450" z="9950" />
+<pos x="5450" z="10000" />
+<pos x="5450" z="10050" />
+        </generator_posbubbles>
+    </fresh>
+</playerspawnpoints>
