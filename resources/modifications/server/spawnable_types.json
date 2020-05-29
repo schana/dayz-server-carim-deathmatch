@@ -1,26 +1,987 @@
 [
   {
-    "type": "MountainBag_Orange",
-    "cargo_presets": ["foodVillage", "mixVillage", "mixHunter"],
-    "attachments_presets": [],
-    "cargo_items": [
+    "type": "A2AA12",
+    "attachments": [
       {
-        "chance": "0.1",
+        "chance": "1.00",
         "items": [
           {
-            "name": "BandageDressing",
-            "chance": "0.3"
+            "name": "A2AA12_Magazine",
+            "chance": "1.00"
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "type": "A2AK74S",
     "attachments": [
       {
-        "chance": "0.1",
+        "chance": "1.00",
         "items": [
           {
-            "name": "Chemlight_Yellow",
-            "chance": "0.3"
+            "name": "Mag_AK74_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2AS50",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2AS50_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2G36_C",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_STANAG_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2LRRAWM",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2LRRAWM_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2M107",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2M107_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2M14_DMR",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2M14_DMRMAG",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2M16A4",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_STANAG_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2M240",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "m240_magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2M249",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2M249_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2M40A3",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2M40A3_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2M9",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2M9_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2MK16",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_STANAG_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2MK48",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2MK48_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2PKM",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2PKM_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2WM110_black",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2WM110_mag",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2WM110_desert",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2WM110_mag",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2bizon",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "bizon_magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2mk17",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2mk17_mag",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "A2mk17_s",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "A2mk17_mag",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "AK101",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_AK101_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "AK_PlasticBttstck",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "AK_PlasticHndgrd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "AK74",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_AK74_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "AK_PlasticBttstck",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "AK_PlasticHndgrd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "AKM",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_AKM_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "AK_PlasticBttstck",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "AK_PlasticHndgrd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "AKS74U",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_AK74_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "AK_PlasticBttstck",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Asval",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Asval_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Barret",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Barret_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Barret_Green",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Barret_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "BigDeag",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "BigDeag_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "BigDeag_Gold",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "BigDeag_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "CZ527",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_CZ527_5rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "CZ61",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_CZ61_20Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "CZ75",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_CZ75_15Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Colt1911",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_1911_7Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Engraved1911",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_1911_7Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "FAL",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_FAL_20Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Fal_OeBttstck",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "FNX45",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_FNX45_15Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Glock19",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_Glock_15Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "HK416",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_STANAG_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "KDMR_Camo",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "KDMR_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "KDMR_Worn",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "KDMR_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "M14_EFT",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "M14_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "M200",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "m200_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "M447",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_AKM_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "M4A1",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_STANAG_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "M4_MPHndgrd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "M4_MPBttstck_Black",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "MCRCARB_Black",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Polymer_30rnd_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "ETATH_Black",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "MCRCARB_Tan",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Polymer_30rnd_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "ETATH_Black",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "MCRCQC_Black",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Polymer_30rnd_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "MCRSAW_Black",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Polymer_30rnd_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "ETATH_Black",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "MKII",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_MKII_10Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "MP5K",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_MP5_30Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "MP5_RailHndgrd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "MP5k_StockBttstck",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "MakarovIJ70",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_IJ70_8Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "RPK",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "RPK_magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "SR25_Black",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "SR25_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "SVD",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_SVD_10Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Saiga",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_Saiga_Drum20Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Saiga_Bttstck",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "TX15_Black",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Polymer_30rnd_Magazine",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "ETATH_Black",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Thompson",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Thompson_DrumMag",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "UMP45",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_UMP_25Rnd",
+            "chance": "1.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "VSS",
+    "attachments": [
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "Mag_VSS_10Rnd",
+            "chance": "1.00"
+          }
+        ]
+      },
+      {
+        "chance": "1.00",
+        "items": [
+          {
+            "name": "PSO11Optic",
+            "chance": "1.00"
           }
         ]
       }
