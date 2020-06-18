@@ -6,42 +6,6 @@
     "server_side": false
   },
   {
-    "directory": "@VPPNotifications",
-    "disable_updates": false,
-    "file_id": 1680673106,
-    "server_side": false
-  },
-  {
-    "directory": "@VPPAdminTools",
-    "disable_updates": false,
-    "file_id": 1708571078,
-    "server_side": false
-  },
-  {
-    "directory": "@SchanaModAutorun",
-    "disable_updates": false,
-    "file_id": 2031792120,
-    "server_side": false
-  },
-  {
-    "directory": "@DayZ-Expansion-Chat",
-    "disable_updates": false,
-    "file_id": 1927567004,
-    "server_side": false
-  },
-  {
-    "directory": "@SchanaModExpansionChatRCon",
-    "disable_updates": false,
-    "file_id": 2061823484,
-    "server_side": false
-  },
-  {
-    "directory": "@SchanaModCompass",
-    "disable_updates": false,
-    "file_id": 2067834152,
-    "server_side": false
-  },
-  {
     "directory": "@Unlimited Stamina",
     "disable_updates": false,
     "file_id": 1560819773,
@@ -66,15 +30,9 @@
     "server_side": true
   },
   {
-    "directory": "@DayZ-Expansion-Notifications",
+    "directory": "@Carim",
     "disable_updates": false,
-    "file_id": 1585487785,
-    "server_side": false
-  },
-  {
-    "directory": "@Airdrop-Upgraded",
-    "disable_updates": false,
-    "file_id": 1870524790,
+    "file_id": 2123003098,
     "server_side": false
   }
 ]
