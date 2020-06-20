@@ -417,61 +417,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
-  <type name="Asval">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Asval_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Asval_Magazine_Dual">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Asval_Magazine_Extended">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="ASVALRail">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
   <type name="B95">    
     <nominal>4</nominal>    
     <lifetime>600</lifetime>    
@@ -481,83 +426,6 @@
     <quantmax>-1</quantmax>    
     <cost>100</cost>    
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Barret">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Barret_Green">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Barret_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="BigDeag">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="BigDeag_Gold">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="BigDeag_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Bipod_Black">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
   <type name="bizon_magazine">    
@@ -671,28 +539,6 @@
     <category name="weapons"/>    
     <tag name="shelves"/>    
   </type>  
-  <type name="HK416">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="HoloSight">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
   <type name="Izh18">    
     <nominal>4</nominal>    
     <lifetime>600</lifetime>    
@@ -715,39 +561,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
-  <type name="KDMR_Camo">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="KDMR_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="KDMR_Worn">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
   <type name="LrrScope">    
     <nominal>4</nominal>    
     <lifetime>600</lifetime>    
@@ -759,83 +572,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
-  <type name="M14_EFT">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="M14_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="M14_Magazine_dual">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="M14_Magazine_Extended">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="M14Rail">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="M200">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="m200_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
   <type name="m240_magazine">    
     <nominal>4</nominal>    
     <lifetime>600</lifetime>    
@@ -845,17 +581,6 @@
     <quantmax>100</quantmax>    
     <cost>100</cost>    
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="M447">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
   <type name="M4A1">    
@@ -1190,50 +915,6 @@
     <category name="weapons"/>    
     <tag name="shelves"/>    
   </type>  
-  <type name="MCRCARB_Black">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="MCRCARB_Tan">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="MCRCQC_Black">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="MCRSAW_Black">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
   <type name="MKII">    
     <nominal>4</nominal>    
     <lifetime>600</lifetime>    
@@ -1279,39 +960,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
-  <type name="Polymer_30rnd_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Polymer_40rnd_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Polymer_60rnd_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
   <type name="Repeater">    
     <nominal>4</nominal>    
     <lifetime>600</lifetime>    
@@ -1321,28 +969,6 @@
     <quantmax>-1</quantmax>    
     <cost>100</cost>    
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="RPK">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="RPK_magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
   <type name="Saiga">    
@@ -1367,83 +993,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
-  <type name="spectreds">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="SR25_Black">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="SR25_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Steel_100rnd_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Steel_10rnd_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Steel_20rnd_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Steel_30rnd_Magazine">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
   <type name="SVD">    
     <nominal>4</nominal>    
     <lifetime>600</lifetime>    
@@ -1453,61 +1002,6 @@
     <quantmax>-1</quantmax>    
     <cost>100</cost>    
     <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="T1">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Thompson">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Thompson_DrumMag">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="Thompson_StickMag">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>100</quantmin>    
-    <quantmax>100</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
-    <category name="weapons"/>    
-  </type>  
-  <type name="TX15_Black">    
-    <nominal>4</nominal>    
-    <lifetime>600</lifetime>    
-    <restock>0</restock>    
-    <min>3</min>    
-    <quantmin>-1</quantmin>    
-    <quantmax>-1</quantmax>    
-    <cost>100</cost>    
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
     <category name="weapons"/>    
   </type>  
   <type name="UMP45">    
