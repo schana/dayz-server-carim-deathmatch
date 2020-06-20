@@ -1,3 +1,4 @@
 {
-    "limit_spawn_locations_radius": 160
+    "limit_spawn_locations_radius": 160,
+    "ratio": 2
 }
