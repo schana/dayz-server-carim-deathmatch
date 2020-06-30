@@ -68,17 +68,16 @@
     <item chance="0.07" name="Flashlight"/>    
   </cargo>  
   <cargo chance="0.35" name="toolsMedic">    
-    <item chance="0.07" name="Rag"/>    
-    <item chance="0.07" name="SalineBag"/>    
-    <item chance="0.14" name="BandageDressing"/>    
+    <item chance="0.05" name="SalineBag"/>    
+    <item chance="0.15" name="BandageDressing"/>    
     <item chance="0.1" name="BloodBagEmpty"/>    
     <item chance="0.05" name="BloodTestKit"/>    
     <item chance="0.05" name="StartKitIV"/>    
-    <item chance="0.05" name="PurificationTablets"/>    
-    <item chance="0.05" name="CharcoalTablets"/>    
-    <item chance="0.05" name="PainkillerTablets"/>    
+    <item chance="0.1" name="PurificationTablets"/>    
+    <item chance="0.1" name="CharcoalTablets"/>    
+    <item chance="0.1" name="PainkillerTablets"/>    
     <item chance="0.05" name="VitaminBottle"/>    
-    <item chance="0.05" name="TetracyclineAntibiotics"/>    
+    <item chance="0.1" name="TetracyclineAntibiotics"/>    
     <item chance="0.05" name="Thermometer"/>    
   </cargo>  
   <cargo chance="0.15" name="toolsPolice">    
@@ -373,9 +372,9 @@
     <item chance="0.10" name="AssaultBag_Green"/>    
     <item chance="0.10" name="AssaultBag_Ttsko"/>    
     <item chance="0.10" name="AssaultBag_Black"/>    
-    <item chance="0.10" name="AliceBag_Camo"/>    
-    <item chance="0.10" name="AliceBag_Green"/>    
-    <item chance="0.10" name="AliceBag_Black"/>    
+    <item chance="0.05" name="AliceBag_Camo"/>    
+    <item chance="0.05" name="AliceBag_Green"/>    
+    <item chance="0.05" name="AliceBag_Black"/>    
     <item chance="0.05" name="TortillaBag"/>    
     <item chance="0.05" name="SmershBag"/>    
     <item chance="0.01" name="CoyoteBag_Brown"/>    
